@@ -6,6 +6,9 @@ def my_each(words)
   end
 end
 
+def my_each(tas)
+  
+
 
 
 
