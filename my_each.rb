@@ -1,6 +1,6 @@
 def my_each(words)
   i = 0
-  while 
+  while words.length  
   my_each(words) do |word|
     puts word
 end
